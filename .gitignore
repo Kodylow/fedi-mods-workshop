@@ -5,6 +5,7 @@ __pycache__/
 
 instance/
 
+.pythonlibs
 .pytest_cache/
 .coverage
 htmlcov/
